@@ -1,0 +1,5 @@
+No Path found by Gready Algorithm
+Path created by brute force algorithm: 
+1 8 6 7 3 2 5 4 
+Total distance by brute force algorithm: 30.9473
+Time taken by the algorithm in seconds: 0.078

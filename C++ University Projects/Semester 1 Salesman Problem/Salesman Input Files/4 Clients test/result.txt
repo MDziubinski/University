@@ -1,0 +1,8 @@
+Path created by gready algorithm: 
+1 2 4 3 
+Total distance by gready algorithm: 5200
+Time taken by the algorithm in seconds: 0
+Path created by brute force algorithm: 
+1 4 2 3 
+Total distance by brute force algorithm: 1300
+Time taken by the algorithm in seconds: 0

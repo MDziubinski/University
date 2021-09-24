@@ -1,0 +1,5 @@
+Path created by greedy algorithm: 
+1 3 7 13 10 4 12 5 11 6 9 8 2 
+Total distance by greedy algorithm: 34.0701
+Time taken by the algorithm in seconds: 0
+Brute force algorithm was not executed as number of clients exceeds 12, higher number of clients would use too much of the ressources.
